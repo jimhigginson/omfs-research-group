@@ -12,7 +12,6 @@ role: NIHR Clinical Doctoral Fellow
 organizations:
 - name: Imperial College London
   url: ""
-- name: The Royal Marsden NHS Foundation Trust
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include head and neck cancer, mass spectrometry and surgical robotics
