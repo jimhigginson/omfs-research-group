@@ -1,37 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jim Higginson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: NIHR Clinical Doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Imperial College London
   url: ""
+- name: The Royal Marsden NHS Foundation Trust
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include head and neck cancer, mass spectrometry and surgical robotics
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Head and Neck Cancer
+- Mass Spectrometry 
+- Surgical Robotics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Head and Neck Oncophenomics
+    institution: Imperial College London
+    year: 2019 to date
+  - course: BDS - Dental Degree
+    institution: University of Newcastle
+    year: 2011-2015
+  - course: MB BChir - Medical Degree
+    institution: Cambridge University
+    year: 2005-2008
+  - course: MA(Cantab) - Bachelors Degree: Neuroanatomy and Development
+    institution: Fitzwilliam College, Cambridge University
+    year: 2002-2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +47,7 @@ social:
   link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jimhigginson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
