@@ -32,7 +32,7 @@ education:
   - course: MB BChir - Medical Degree
     institution: Cambridge University
     year: 2005-2008
-  - course: MA(Cantab) - Bachelors Degree: Neuroanatomy and Development
+  - course: MA(Cantab) - Bachelors Degree, Neuroanatomy and Development
     institution: Fitzwilliam College, Cambridge University
     year: 2002-2005
 
