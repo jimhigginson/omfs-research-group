@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The OMFS research group is a network of individuals, clinically based in oral and maxillofacial surgery, but with a wide portfolia of research interestes and contexts that provide support to each other and the various research projects
+The OMFS research group is a network of committed, talented individuals, clinically trained or training in oral and maxillofacial surgery, but with a wide portfolio of research interests and contexts. This organisation exists so that the members can provide support to each other and the various research projects
