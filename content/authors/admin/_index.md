@@ -69,6 +69,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- Trainees
 ---
 
 Jim Higginson is an Oral and Maxillofacial Surgery trainee, currently taking a break from training to complete a PhD in advanced robotic surgical methods and cancer detection at Imperial College London.
