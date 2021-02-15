@@ -44,9 +44,9 @@ These are funding calls aimed at funding a particular *person* to complete a pro
 
 ## Three year doctoral fellowships
 
-- NIHR
-- MRC
-- CRUK
-- Wellcome
+- [NIHR Doctoral Fellowship](https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm) A good fit for projects with a significant clinical/translational element.
+- [MRC Clinical Research Training Fellowship](https://www.ukri.org/opportunity/mrc-clinical-research-training-fellowships/) A good fit for projects that tend more towards basic science.
+- [CRUK](https://www.cancerresearchuk.org/funding-for-researchers) The CRUK work slightly differently, in that you can't apply to them centrally for an open-competition fellowship. Instead, they allocate funding to various research institutions for fellowships, and then those institutions decide how the fellowships are applied for. If in doubt, drop them an email.
+- [Wellcome Trust](https://wellcome.org/grant-funding/schemes/clinical-phd-programmes) Like CRUK, the Wellcome Trust have historically offered funding to institutions for them to allocate internally. Though unlike CRUK, they tend not to fund cancer projects. As of today (15th Feb 2021), the Wellcome trust say they are changing how they fund clinical PhDs, with details promised in summer 2021. Keep your eyes peeled!
 
 
