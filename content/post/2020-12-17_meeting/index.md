@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2020 12 17_meeting"
+title: "Minutes of the meeting 2020-12-17"
 subtitle: ""
 summary: ""
 authors: ["admin"]
