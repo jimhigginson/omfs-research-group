@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "The Trinity Club"
+title: "SMAS-UK"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 
-The Society of Oral and Maxillofacial Academic Surgeons is open to any researchers who are interested, but the core of the group is those who aspire to careers in academic oral and maxillofacial surgery with medical, dental, and higher research qualifications.
+The UK Society of Oral and Maxillofacial Academic Surgeons (SMAS-UK) is open to any researchers who are interested, but the core of the group is those who aspire to careers in academic oral and maxillofacial surgery with medical, dental, and higher research qualifications.
 
 We are a network of committed, talented individuals, clinically trained or training in oral and maxillofacial surgery, with a wide portfolio of research interests and contexts, including head and neck cancer, cleft lip and palate, craniofacial deformity, clinical/surgical education, clinical trials and more. 
 
