@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "OMFS Research Group"
+title: "The Trinity Club"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,9 @@ advanced:
   css_class:
 ---
 
-The OMFS research group is a network of committed, talented individuals, clinically trained or training in oral and maxillofacial surgery, but with a wide portfolio of research interests and contexts. This organisation exists so that the members can provide support to each other and the various research projects
+
+The Trinity Club refers to members of our group, who are oral and maxillofacial academic surgeons, who hold or aspire to the holy trinity: medical, dental and higher research degrees.
+
+The group is a network of committed, talented individuals, clinically trained or training in oral and maxillofacial surgery, with a wide portfolio of research interests and contexts, including head and neck cancer, cleft lip and palate, craniofacial deformity, clinical/surgical education, clinical trials and more. 
+
+This organisation exists so that the members can provide support to each other and the various research projects. If you are interested, please get in contact!
