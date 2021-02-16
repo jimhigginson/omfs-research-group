@@ -21,4 +21,4 @@ The UK Society of Oral and Maxillofacial Academic Surgeons (SMAS-UK) is a networ
 
 Our group is open to any researchers who are interested, though it's worth noting that the core of the group is those who aspire to careers in academic oral and maxillofacial surgery with medical, dental, and higher research qualifications.
 
-This organisation exists so that the members can provide support to each other and the various research projects. If you are interested, please get in [contact]({{< ref "/contact/" >}})!
+This organisation exists so that the members can provide support to each other and the various research projects. If you are interested, please get in [contact]({{< ref "home/contact/" >}})!
