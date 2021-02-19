@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Post-CCT in Fellow Head and Neck Oncology and Microvascular Reconstruction, University Hospitals Birmingham
+role: Post-CCT Fellow in Head and Neck Oncology and Microvascular Reconstruction, University Hospitals Birmingham
 
 # Organizations/Affiliations
 #organizations:
