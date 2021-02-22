@@ -81,3 +81,5 @@ He has also been awarded the National Cancer Research Institute Head and Neck Cl
 Mr Dhanda is currently setting up the MSc programme in dental implant reconstructive surgery at Brighton Medical School and was recently awarded the Presidents Prize at the British Association of Oral and Maxillofacial Surgeons Conference in 2018 for his work on iKnife technology at Imperial College, London. He also hosts the annual advanced microvascular, virtual surgical planning and cadaveric perforator course.
 
 Mr Dhanda is a member of council of the British Association of Oral and Maxillofacial Surgeons and a member of council of the Royal College of Surgeons of England, Faculty of Dental Surgery.
+
+More recently, in response to the challenges of surgical education during the Covid-19 pandemic, Jag founded and led the Virtual Reality in Medicine and Surgery ([VRIMS](www.virtualrealityinmedicneandsurgery)), a free-for-trainees resource in surgical education, utilising 360-degree virtual reality technology, and creating a global resource for developing nations.
