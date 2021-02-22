@@ -82,4 +82,4 @@ Mr Dhanda is currently setting up the MSc programme in dental implant reconstruc
 
 Mr Dhanda is a member of council of the British Association of Oral and Maxillofacial Surgeons and a member of council of the Royal College of Surgeons of England, Faculty of Dental Surgery.
 
-More recently, in response to the challenges of surgical education during the Covid-19 pandemic, Jag founded and led the Virtual Reality in Medicine and Surgery ([VRIMS](www.virtualrealityinmedicneandsurgery)), a free-for-trainees resource in surgical education, utilising 360-degree virtual reality technology, and creating a global resource for developing nations.
+More recently, in response to the challenges of surgical education during the Covid-19 pandemic, Jag founded and led the Virtual Reality in Medicine and Surgery ([VRIMS](www.virtualrealityinmedicineandsurgery)), a free-for-trainees resource in surgical education, utilising 360-degree virtual reality technology, and creating a global resource for developing nations.
